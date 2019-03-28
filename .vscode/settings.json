@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Users\\surfacebook\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "python.linting.pylintEnabled": true
+}
